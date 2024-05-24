@@ -1,8 +1,9 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=1B80FF&random=false&width=435&lines=Bom+dia,+boa+tarde+ou+boa+noite!;Eu+sou+o+Gabriel+Cardoso+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+<h3 align="center">Desenvolvedor Front-end 👨‍💻</h3>
+<br />
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
-<h3 align="center">Desenvolvedor Front-end 👨‍💻</h3>
 
   <br />
   
@@ -10,7 +11,7 @@
   - 🌱 __Aprimoramento Atual__: React
   - 💻 __Foco__: Aprendizado contínuo
 
-    <br />
+    <br /> <br />
 <div align="center">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
