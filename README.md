@@ -8,7 +8,7 @@
   <br />
   
   - 🔭 __Profissão__: Programador Front-end Web
-  - 🌱 __Aprimoramento Atual__: React
+  - 🌱 __Aprimoramento Atual__: Python
   - 💻 __Foco__: Aprendizado contínuo
 
     <br /><br /><br />
