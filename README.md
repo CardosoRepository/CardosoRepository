@@ -15,7 +15,6 @@
 <div align="center">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CardosoRepository&layout=compact&langs_count=6&card_width=418" />
     <img align="center" alt="streak stats"        src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CardosoRepository&count_private=true&theme=react&border_radius=10" height=165/>
   </a>
   
