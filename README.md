@@ -7,11 +7,11 @@
 
   <br />
   
-  - 🔭 __Profissão__: Programador Front-end Web
-  - 🌱 __Aprimoramento Atual__: Python
-  - 💻 __Foco__: Aprendizado contínuo
+  Desenvolvedor Front-end em formação, com foco em criação de interfaces web responsivas, organização de componentes e desenvolvimento com JavaScript, TypeScript, React e Angular.
 
-    <br /><br /><br />
+  Atualmente estou aprofundando meus estudos em Angular, consumo de APIs e boas práticas no desenvolvimento front-end.
+
+  <br /><br /><br />
 <div align="center">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
