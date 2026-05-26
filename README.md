@@ -76,15 +76,13 @@ Aplicação em React para criação de salas de perguntas e respostas em tempo r
 
 [Repositório](https://github.com/CardosoRepository/Letmeask) | [Deploy](https://letmeask-db1a2.web.app)
 
-## Atualmente aprofundando
+## Áreas de atuação e evolução técnica
 
-- Angular
-- TypeScript
-- Arquitetura de componentes
-- Consumo e organização de dados vindos de APIs
-- Autenticação no front-end
-- Testes em aplicações Angular
-- Boas práticas de manutenção e escalabilidade em aplicações web
+- Desenvolvimento front-end com Angular, React e TypeScript
+- Arquitetura de componentes e organização de projetos
+- Integração com APIs REST e tratamento de dados
+- Autenticação, rotas protegidas e fluxos de usuário
+- Testes, manutenção e evolução de aplicações web
 
 ## Contato
 
