@@ -58,7 +58,7 @@ Aplicação em Angular para visualização de eventos em um calendário mensal i
 
 **Tecnologias:** Angular, TypeScript, Angular Material, RxJS, SCSS, Jasmine e Karma
 
-[Repositório](https://github.com/CardosoRepository/Timely-Calendar)
+[Repositório](https://github.com/CardosoRepository/Timely-Calendar) | [Deploy](https://cardosorepository.github.io/Timely-Calendar/)
 
 ### Kogui Challenge
 
